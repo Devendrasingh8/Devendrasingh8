@@ -1,6 +1,9 @@
 • 👋 Hi, I'm Devendra 
+
 • 🔭 I have recently become certified as a data analyst and I want to continue to grow, learn and connect.
+
 • 🌱 I’m well versed in Excel, Tableau, SQL and Python.
+
 • 📫 Reach me at devendrasingh.jhala1996@gmail.com
 <!--
 **Devendrasingh8/Devendrasingh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
